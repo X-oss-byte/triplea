@@ -74,7 +74,7 @@
     "nconf": "^0.10.0",
     "nodebb-plugin-2factor": "^2.7.2",
     "nodebb-plugin-cards": "0.2.2",
-    "nodebb-plugin-composer-default": "6.3.25",
+    "nodebb-plugin-composer-default": "6.5.34",
     "nodebb-plugin-custom-pages": "^1.1.3",
     "nodebb-plugin-dbsearch": "4.0.7",
     "nodebb-plugin-desktop-notifications": "^0.3.3",
